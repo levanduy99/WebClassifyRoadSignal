@@ -29,5 +29,5 @@ You should be able to view the homepage.
 
 API /predict: method `POST` http://127.0.0.1:5000/predict 
 
-### `DEMO`: https://www.youtube.com/
+### `DEMO`: https://youtu.be/_CsE8SXvHYM
 

@@ -100,4 +100,4 @@ def upload():
     return "No Answer"
 
 if __name__ == '__main__':
-    app.run(host='169.254.166.27')
+    app.run(debug=True)
